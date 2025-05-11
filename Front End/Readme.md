@@ -1,4 +1,3 @@
-<img src="./roadmap_bg.png"/>
 
 `Ihab Mahmoud`
 
